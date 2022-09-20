@@ -1,0 +1,30 @@
+  body {
+      background-color: #EFFFFD ;
+  }
+  hr {
+    background-color:#EFFFFD ;
+    border-style: none ;  /*When four values are specified, the styles apply to the top, right, bottom, and left in that order (clockwise) */
+    border-top-style: dotted;
+   border-color: grey ;
+   border-width: 5px ;
+    width : 20% ;
+  }
+  h1 {
+    font-size: 50px ;
+    color: #25316D ;
+    background-color: #EFFFFD;
+
+  }
+  h2 {
+    font-size: 30px ;
+    color: #25316D ;
+    background-color: #EFFFFD;
+
+  }
+  h3 {
+    background-color: #EFFFFD;
+    color : blue ;
+  }
+  a:hover{
+    background-color: #B7C4CF ;
+  }
